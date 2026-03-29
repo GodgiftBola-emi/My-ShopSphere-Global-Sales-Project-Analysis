@@ -1,2 +1,10 @@
 # My-ShopSphere-Global-Sales-Project-Analysis
-This dataset supports analytical insights for the ShopSphere Global Sales Analysis, revealing customer behavior, product performance, and regional trends. It shows that higher sales don’t always mean higher profit and helps drive smarter, data-driven business decisions.
+Insights Analysed include; Sales trend report
+Top 10 Customers
+Sales by Representative
+Sales by Region
+Sales by Product Category
+Top 6 product by revenue
+Top 5 cities revenue
+State Performace
+Transaction by amount
