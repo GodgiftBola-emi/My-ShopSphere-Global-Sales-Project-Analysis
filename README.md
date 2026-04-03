@@ -10,10 +10,7 @@ State Performace
 Transaction by amount
 <img width="922" height="375" alt="ShopSphere Global Sales Analysis Dashboard" src="https://github.com/user-attachments/assets/f3ef9097-d8e8-4fd4-a8e3-0353c9e9c004" />
 
-What Building My First Sales Dashboard Taught Me About Data Analytics
-A practical breakdown of how I transformed raw sales data into meaningful insights and business-driven decisions using Excel
 Introduction.
-
 Every dataset has a story, but not every analysis tells it well.
 When I began working on my ShopSphere Global Sales Analysis project, my goal wasn’t just to build a dashboard. I wanted to understand how data can drive real business decisions.
 This project became more than an Excel exercise — it became a journey into thinking like a data analyst, asking the right questions, and uncovering insights that matter.
